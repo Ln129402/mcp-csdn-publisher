@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "csdn-publisher": {
+      "command": "node",
+      "args": ["./dist/index.js"]
+    }
+  }
+}
