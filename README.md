@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ln129402-mcp-csdn-publisher-badge.png)](https://mseep.ai/app/ln129402-mcp-csdn-publisher)
+
 # 🚀 mcp-csdn-publisher
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
